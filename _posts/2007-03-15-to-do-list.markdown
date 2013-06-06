@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "To-Do List"
+author: Ben
+---
+
+<p><span class="inline left"><img src="/files/images/todo.jpg" alt="" title=""  class="image img_assist_custom" width="143" height="200" /></span></p>
+<p>Last night Jacob and I made a list of things we need to do, and things we still need to buy.  Derek couldn't meet last night, so we wanted to email him a copy of the list.  I ended up taking a picture of the list and sending that, because unfortunately I don't have a scanner right now.  My last printer/copier/scanner broke, so rather than replace it with another multifunction device (and be out all three functions if it breaks) I bought an HP LaserJet for fast and reliable printing (so far, so good) and now I just need a new standalone scanner.  However, it seems like everyone is buying the multifunction devices so standalone scanners have actually gone up in price! </p>
+<p>Anyway, back to the list, we have lots of little to-do items.  We have some things to research, some parts to drill and tap, and various miscellaneous items to buy.  A rough estimate indicates that we can complete the ROV for about $850 more.  The biggest unknown however, is the fairing.  We figured we would put the fairing off until later in the semester -- but now <em>is</em> later in the semester so we need to get working on this. </p>

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Sponsors"
+author: Ben
+---
+
+<p>I just added some sponsor logos on the left sidebar.  We've been fortunate to receive discounts and financial help from several places.  If you're in the market for ROVs or ROV parts be sure to check out <a href="http://www.seabotix.com/" target="_blank">SeaBotix </a>and <a href="http://www.protacraft.com/" target="_blank">ProtaCraft</a>.  We got our thrusters from SeaBotix at a nice discount, and our tether and video baluns (used to transmit video over the tether) are in the mail from ProtaCraft. </p>

@@ -1,0 +1,225 @@
+/* CSS Document */
+
+body {
+	background-color: #EBEBEB;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 15px;
+}
+
+a, a:link, a:active, a:visited {
+	color: #036e59;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #bbbb00;
+}
+
+p {
+	margin: 1em 0 1em 0;
+}
+
+ul, ol {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+h1 {
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+h3 {
+	font-size: 15px;
+	padding: 0px;
+}
+
+h4 {
+	font-size: 13px;
+}
+
+h5 {
+	font-size: 12px;
+}
+
+.header {
+	background-image: url(/images/header_fill.jpg);
+	background-repeat: repeat-x;
+}
+
+.footer {
+	background-image: url(/images/bottom_fill.jpg);
+	background-repeat: repeat-x;
+}
+
+#menu-cell {
+	background-color: #DEE9E6;
+	text-transform: lowercase;
+	padding: 0 3px 0 0;
+	vertical-align: middle;
+	background-position: center;
+}
+
+#menu a, #menu a:link, #menu a:active, #menu a:visited {
+	padding: 0px 13px 0 13px;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#menu a:hover {
+  color: #000000;
+}
+
+td#sidebar {
+	background-color: #ffffff;
+	width: 189px;
+	padding: 7px 5px 0px 5px;
+}
+
+td.fill {
+	background-color: #000000;
+}
+
+td#main {
+	background-color: #ffffff;
+	width: 599px;
+	padding: 7px 10px 0px 10px;
+}
+
+td.left-side {
+	background-image: url(/images/left_middle.jpg);
+	background-repeat: repeat-y;
+}
+
+td.right-side {
+	background-image: url(/images/right_middle.jpg);
+	background-repeat: repeat-y;
+}
+
+#search-box .form-text, #search-box .form-submit {
+	font-size: 11px;
+}
+
+.form-text, .form-select, .form-textarea {
+	border: 1px solid #333;
+	background-color: #ffffff;
+}
+
+.form-button, .form-submit {
+	background-color: #07FFDC;
+	border: 1px solid #333;
+	font-size: 11px;
+	color: #333;
+	font-weight: bold;
+}
+
+.hide {
+  display: none
+}
+
+#comment_form {
+	padding: 5px;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	background: #f9f9f9;
+}
+
+.node .content, .comment .content {
+  margin: 0px 0 12px 0;
+	padding: 5px 0 0 0;
+}
+
+h1.title, .node h1.title, .comment h2.title, .block h2.title {
+	font-size: 18px;
+	color: #036e59;
+	border-bottom: 1px solid #036e59;
+	vertical-align: text-bottom;
+}
+
+h1.title, .node h1.title, .comment h2.title {
+	margin-top: 0px;
+	text-transform: capitalize;
+}
+
+.node .title a, .node .title a:link, .node .title a:active, .node .title a:visited {
+  text-decoration: none;
+	color: #036e59;
+}
+
+.node .title a:hover {
+  text-decoration: none;
+	color: #bbbb00;
+}
+
+.comment .title a, .comment .title a:link, .comment .title a:active, .comment .title a:visited {
+  text-decoration: none;
+	color: #036e59;
+}
+
+.comment .title a:hover {
+  text-decoration: none;
+	color: #bbbb00;
+}
+
+.comment .subject {
+	font-size: 18px;
+}
+
+
+/* BLOCKS */
+.block h2.title {
+  margin-bottom: .25em;
+}
+
+.block {
+  margin-bottom: 1.5em;
+}
+
+.links {
+	font-size: 11px;
+}
+
+
+/* Tab navigation */
+ul.tabs {
+	margin-top: 12px;
+}
+
+ul.custom-primary {
+  white-space: nowrap;
+  list-style: none;
+	float: right;
+	position: relative;
+	top: 5px;
+}
+
+ul.custom-primary li {
+  display: inline;
+	margin: 4px;
+}
+
+
+ul.custom-secondary {
+	padding: 0px;
+	margin: 3px 0 3px 0;
+	float: right;
+}
+ul.custom-secondary li {
+  display: inline;
+	margin: 4px;
+	padding: 0;
+
+}
+
+#user-login-form {
+	text-align: left;
+}

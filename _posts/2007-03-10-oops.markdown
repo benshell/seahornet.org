@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Oops"
+author: Ben
+---
+
+<p><span class="inline right"><img src="/files/images/DSC_2359.img_assist_custom.jpg" alt="" title=""  class="image img_assist_custom" width="153" height="199" /></span></p>
+<p>I'm pretty sure this is <strong>NOT </strong>the right way to install an O-ring.  Fortunately we have extras.  Now that we have our polycarbonate tubes and aluminum end caps (for our electronics housings and camera housing) all the major mechanical fabrication is done (besides the fairing).  Now we need to take care of lots of other things, such as mounting the electronics in the housings, buying the tether, camera, and lights and making our own underwater connectors (using hose barbs and epoxy). </p>

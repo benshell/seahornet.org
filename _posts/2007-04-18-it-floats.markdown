@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "It Floats!"
+author: Ben
+---
+
+<p><span class="inline left"><img src="http://www.seahornet.org/files/images/it_floats.img_assist_custom.jpg" alt="" title=""  class="image img_assist_custom" width="200" height="133" /></span></p>
+<p><span class="inline right"><img src="http://www.seahornet.org/files/images/thumbs_up.img_assist_custom.jpg" alt="" title=""  class="image img_assist_custom" width="200" height="200" /></span></p>
+<p>Jacob and I put the ROV in the pool for the first time tonight (without electronics or power).  We probably should have waited for Derek, but he was studying for the E.I.T. exam and we were just too anxious to see what would happen. </p>
+<p>Anyway, we're excited that the ROV floats!  Obviously we really need it to be neutrally buoyant, but we still have electronics, cabling, and the fairing to add.  It's easier to add weight then to add buoyancy. There were many unknown weights/volumes when we designed the ROV last semester, so it was impossible to make perfect buoyancy calculations.</p>
+<p>I haven't been very good about posting pictures to the blog the last few weeks, but we've been taking pictures and I'm working on a very long and detailed post about what has been our #1 problem for the last month and a half: sealing the cabling going and out of the electronics housings. </p> 
